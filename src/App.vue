@@ -5,7 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="c:\Users\HP\Downloads\shinta.png" width="125" height="125" />
+    <img alt="Vue logo" class="logo" src="./assets/shinta.png" width="125" height="125" />
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
